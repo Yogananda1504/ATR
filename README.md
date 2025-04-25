@@ -107,20 +107,20 @@ pip install -r requirements.txt
 ### Running the system
 
 ```bash
- python src/github_main.py -q "genetic sequencing"
+ python src/github_main.py -q "Type your query here"
 ```
 
 ### Examples
 
 ```bash
 # Research a scientific topic
-python src/main.py --query "What are the latest advancements in CRISPR gene editing?"
+python src/github_main.py --q "What are the latest advancements in CRISPR gene editing?"
 
 # Gather information on a historical event
-python src/main.py --query "What were the economic impacts of the Industrial Revolution?"
+python src/github_main.py --q "What were the economic impacts of the Industrial Revolution?"
 
 # Research a technical concept
-python src/main.py --query "Explain quantum computing and its potential applications"
+python src/github_main.py --q "Explain quantum computing and its potential applications"
 ```
 
 ### Running the demo
@@ -180,7 +180,7 @@ MIT
 
 ## Author
 
-[Your Name]
+[Yogananda1504](https://github.com/Yogananda1504.com)
 
 ## Acknowledgements
 
