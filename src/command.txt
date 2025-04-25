@@ -1,0 +1,1 @@
+cd D:\ATR\ai_research_system && python src/github_main.py -q "genetic sequencing"
