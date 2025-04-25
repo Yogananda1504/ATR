@@ -107,7 +107,7 @@ pip install -r requirements.txt
 ### Running the system
 
 ```bash
-python src/main.py --query "Your research question here"
+ python src/github_main.py -q "genetic sequencing"
 ```
 
 ### Examples
