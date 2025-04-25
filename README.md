@@ -49,7 +49,7 @@ The project uses LangGraph and LangChain frameworks to organize the information 
 
 - Python 3.9+
 - Tavily API key
-- OpenAI API key
+- GitHub AI API key
 
 ### Installation
 
@@ -92,8 +92,8 @@ pip install -r requirements.txt
 
 #### Getting API Keys
 
-1. **OpenAI API Key**:
-   - Sign up at [OpenAI Platform](https://platform.openai.com/)
+1. **Github API Key**:
+   - Sign up at [Github.com](https://github.com/)
    - Navigate to API keys section and create a new key
    - Copy the key to your `.env` file
 
